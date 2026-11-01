@@ -66,7 +66,7 @@ local function zharkLicensePrompt()
 
     local title = Instance.new("TextLabel")
     title.Size = UDim2.new(1, -20, 0, 38); title.Position = UDim2.fromOffset(10, 8)
-    title.BackgroundTransparency = 1; title.Text = "ZHARK LICENSE"
+    title.BackgroundTransparency = 1; title.Text = "ROSE HUB PRIVATE BY:ZHARK"
     title.TextColor3 = Color3.fromRGB(190, 135, 255); title.Font = Enum.Font.GothamBold
     title.TextSize = 20; title.Parent = frame
 
